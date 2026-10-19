@@ -1,51 +1,32 @@
-# 基色 GScenes 回家导航
+# 基色 GScenes · 回家的路
 
-**基色 GScenes｜AI 原生男男向短剧**
+### 打开前看一下
 
-你想看的男男故事，都在 GScenes。
+- 这里放基色的访问入口和安卓下载链接，先收藏，之后找入口就来这里。
+- 在聊天 App 里点不开链接时，复制完整网址，粘贴到浏览器地址栏打开。
+- 可以用 Chrome、Edge 或 Safari 访问；仍然打不开的话，切换 Wi-Fi 或移动网络再试。
+- 有 GitHub 账号的话，点个 **Star** 收藏，之后从收藏列表就能找回来。
 
-**回家导航：[github.com/gscenes-official/gscenes](https://github.com/gscenes-official/gscenes)**
+### 快速找到入口
 
-收藏本页，查找 GScenes 访问入口和 App 下载。已有 GitHub 账号的朋友可以点击右上角 **Star** 收藏，也可以直接保存到浏览器书签。
+### [基色 GScenes](#基色-gscenes) | [安卓 App](#安卓-app) | [iPhone 和 iPad](#iphone-和-ipad)
 
-**快速查看：[访问入口](#访问入口) · [App 下载](#app-下载) · [常见问题](#常见问题)**
+# 基色 GScenes
 
-## 访问入口
+AI 原生男男向短剧，你想看的男男故事，都在基色。
 
-| 入口 | 地址 |
-| --- | --- |
-| 进入 GScenes | [点击进入基色 GScenes](https://chgdj.com/I3TLQ6S) |
+官网入口：
 
-如果在社交 App 内无法打开，请复制完整链接，粘贴到 Chrome、Edge 或 Safari 浏览器的地址栏访问。
+[https://chgdj.com/I3TLQ6S](https://chgdj.com/I3TLQ6S)
 
-## App 下载
+# 安卓 App
 
-| 设备 | 下载入口 |
-| --- | --- |
-| Android 安卓 | [安卓下载](https://chgdj.com/tPdSWGK) |
+安卓官方包下载：
 
-也可以通过上方访问入口使用网页版。
+[https://chgdj.com/tPdSWGK](https://chgdj.com/tPdSWGK)
 
-访问地址、下载入口有调整时，请回到本页查看更新。
+# iPhone 和 iPad
 
-## 常见问题
+通过浏览器打开网页版：
 
-### 访问入口打不开怎么办
-
-先复制完整链接到浏览器打开。如果仍然无法访问，可以切换 Wi-Fi 或移动网络后再试，并回到本页查看入口是否有更新。
-
-### 从聊天窗口点击后打不开怎么办
-
-复制完整地址，使用浏览器打开；也可以在聊天 App 中选择“在浏览器中打开”。
-
-### iPhone 可以使用吗
-
-可以通过上方访问入口使用网页版。本页目前仅列出安卓 App 的下载入口。
-
-### 下载或安装失败怎么办
-
-请通过本页列出的下载入口重新尝试，确认设备有足够的存储空间。
-
-### 怎样分享给朋友
-
-直接分享本页链接。朋友收藏后，可以回到同一页面查找更新后的入口。
+[https://chgdj.com/I3TLQ6S](https://chgdj.com/I3TLQ6S)
